@@ -1,0 +1,83 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Blair(2012)}]{blair2012argumentation}
+J~Anthony Blair. 2012.
+\newblock Argumentation as rational persuasion.
+\newblock {\em Argumentation\/} 26(1):71--81.
+
+\bibitem[{Feng and Hirst(2011)}]{feng2011classifying}
+Vanessa~Wei Feng and Graeme Hirst. 2011.
+\newblock Classifying arguments by scheme.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies-Volume 1\/}.
+  Association for Computational Linguistics, pages 987--996.
+
+\bibitem[{Grolmusz(2015)}]{grolmusz2015note}
+Vince Grolmusz. 2015.
+\newblock A note on the pagerank of undirected graphs.
+\newblock {\em Information Processing Letters\/} 115(6):633--634.
+
+\bibitem[{Habernal and Gurevych(2016)}]{habernal2016argument}
+Ivan Habernal and Iryna Gurevych. 2016.
+\newblock Which argument is more convincing? analyzing and predicting
+  convincingness of web arguments using bidirectional lstm.
+\newblock In {\em Proceedings of the 54th Annual Meeting of the Association for
+  Computational Linguistics (ACL)\/}.
+
+\bibitem[{Hasan and Ng(2014)}]{hasan2014you}
+Kazi~Saidul Hasan and Vincent Ng. 2014.
+\newblock Why are you taking this stance? identifying and classifying reasons
+  in ideological debates.
+\newblock In {\em EMNLP\/}. pages 751--762.
+
+\bibitem[{Marcu and Echihabi(2002)}]{marcu2002unsupervised}
+Daniel Marcu and Abdessamad Echihabi. 2002.
+\newblock An unsupervised approach to recognizing discourse relations.
+\newblock In {\em Proceedings of the 40th Annual Meeting on Association for
+  Computational Linguistics\/}. Association for Computational Linguistics,
+  pages 368--375.
+
+\bibitem[{Mercier and Sperber(2011)}]{mercier2011humans}
+Hugo Mercier and Dan Sperber. 2011.
+\newblock Why do humans reason? arguments for an argumentative theory.
+\newblock {\em Behavioral and brain sciences\/} 34(02):57--74.
+
+\bibitem[{Nettel and Roque(2012)}]{nettel2012persuasive}
+Ana~Laura Nettel and Georges Roque. 2012.
+\newblock Persuasive argumentation versus manipulation.
+\newblock {\em Argumentation\/} 26(1):55--69.
+
+\bibitem[{Palau and Moens(2009)}]{palau2009argumentation}
+Raquel~Mochales Palau and Marie-Francine Moens. 2009.
+\newblock Argumentation mining: the detection, classification and structure of
+  arguments in text.
+\newblock In {\em Proceedings of the 12th international conference on
+  artificial intelligence and law\/}. ACM, pages 98--107.
+
+\bibitem[{Petty and Cacioppo(1986)}]{petty1986elaboration}
+Richard~E Petty and John~T Cacioppo. 1986.
+\newblock The elaboration likelihood model of persuasion.
+\newblock In {\em Communication and persuasion\/}, Springer, pages 1--24.
+
+\bibitem[{Rooney et~al.(2012)Rooney, Wang, and Browne}]{rooney2012applying}
+Niall Rooney, Hui Wang, and Fiona Browne. 2012.
+\newblock Applying kernel methods to argumentation mining.
+\newblock In {\em FLAIRS Conference\/}.
+
+\bibitem[{Stab et~al.(2014)Stab, Kirschner, Eckle-Kohler, and
+  Gurevych}]{stab2014argumentation}
+Christian Stab, Christian Kirschner, Judith Eckle-Kohler, and Iryna Gurevych.
+  2014.
+\newblock Argumentation mining in persuasive essays and scientific articles
+  from the discourse structure perspective.
+\newblock In {\em ArgNLP\/}. pages 21--25.
+
+\bibitem[{Sultan et~al.(2015)Sultan, Bethard, and Sumner}]{sultan2015dls}
+Md~Arafat Sultan, Steven Bethard, and Tamara Sumner. 2015.
+\newblock Dls@ cu: Sentence similarity from word alignment and semantic vector
+  composition.
+\newblock In {\em Proceedings of the 9th International Workshop on Semantic
+  Evaluation\/}. pages 148--153.
+
+\end{thebibliography}
